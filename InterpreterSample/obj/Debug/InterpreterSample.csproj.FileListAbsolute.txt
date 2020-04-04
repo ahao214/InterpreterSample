@@ -1,0 +1,7 @@
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\obj\Debug\InterpreterSample.csprojAssemblyReference.cache
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\obj\Debug\InterpreterSample.csproj.CoreCompileInputs.cache
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\bin\Debug\InterpreterSample.exe.config
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\bin\Debug\InterpreterSample.exe
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\bin\Debug\InterpreterSample.pdb
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\obj\Debug\InterpreterSample.exe
+F:\MyProgramm\VS19\InterpreterSample\InterpreterSample\InterpreterSample\obj\Debug\InterpreterSample.pdb

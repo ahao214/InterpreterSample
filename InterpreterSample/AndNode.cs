@@ -4,17 +4,17 @@ namespace InterpreterSample
     /// <summary>
     /// And结点类，充当非终结符表达式角色
     /// </summary>
-    public class AddNode:AbstractNode
+    class AndNode : AbstractNode
     {
-        public AddNode()
+        public AndNode()
         {
         }
 
         private AbstractNode left;  //And的左表达式
         private AbstractNode right; //And的右表达式
-        
 
-        public AddNode(AbstractNode left,AbstractNode right)
+
+        public AndNode(AbstractNode left, AbstractNode right)
         {
             this.left = left;
             this.right = right;

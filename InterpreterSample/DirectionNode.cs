@@ -28,7 +28,7 @@ namespace InterpreterSample
             {
                 return "向下";
             }
-            else if(direction.Equals("lefe"))
+            else if(direction.Equals("left"))
             {
                 return "向左";
             }

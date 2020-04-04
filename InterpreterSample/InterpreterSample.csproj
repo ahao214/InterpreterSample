@@ -47,9 +47,10 @@
     <Compile Include="ActionNode.cs" />
     <Compile Include="DirectionNode.cs" />
     <Compile Include="DistanceNode.cs" />
+    <Compile Include="InstructionHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="AddNode.cs" />
+    <Compile Include="AndNode.cs" />
     <Compile Include="SentenceNode.cs" />
   </ItemGroup>
   <ItemGroup>
