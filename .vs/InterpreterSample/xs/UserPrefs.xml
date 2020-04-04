@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D7174E95-8AF1-4F86-A49B-B24A7FCC822A}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterpreterSample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterpreterSample/AddNode.cs">
+    <Files>
+      <File FileName="InterpreterSample/AddNode.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterpreterSample" expanded="True">
+            <Node name="InterpreterSample" expanded="True">
+              <Node name="AddNode.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
